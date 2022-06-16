@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LegendGaf
-- 👀 I’m interested in C.S.
+- 👀 I’m interested in Robotics and I.A.
 - 🌱 I’m currently learning embedded system engineering 
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me [...](https://www.linkedin.com/in/aymane-gafaiti-b34a851b2/)
