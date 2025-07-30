@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LegendGaf
 - 👀 I’m interested in Robotics and I.A.
-- 🚀 I’m currently working as an embedded system and FW engineering 
+- 🚀 I’m currently working as an embedded system and FW engineering at OVHcloud
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me [...](https://www.linkedin.com/in/aymane-gafaiti-b34a851b2/)
 
